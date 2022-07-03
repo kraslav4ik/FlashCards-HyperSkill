@@ -3,7 +3,7 @@ Completed HyperSkill project "Flashcards"
 
 https://hyperskill.org/projects/127?track=2
 
-Launch from root dir(Flashcards-HyperSkill)
+File with logs will be stored in direcrtory, from which you run code
 
 Small programm to play "Cards game". Here you can create your own "Q&A" cards, save them to file, load them from file. Also, game keeps statistics of your games(logs) and store "The hardest card"
 
